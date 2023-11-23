@@ -1,0 +1,63 @@
+.bg-custom {
+    background-color: #9F3A9F; /* Cambia el valor a tu color deseado en formato hexadecimal o de otro tipo */
+}
+.bg-fondo {
+    background-color: #FFD7FF; /* Cambia el valor a tu color deseado en formato hexadecimal o de otro tipo */
+}
+footer{
+    background: #9F3A9F;
+    min-height: 70px;
+}
+footer p{
+    color: #f3f3f3;
+}
+.text-color {
+    color: #9F3A9F;
+}
+.linea{
+background: #4b4b4b;
+color: #4b4b4b;
+}
+.text-linea{
+text-decoration: none;
+}
+.image-container {
+    display: flex; 
+}
+.image-container img {
+    width: 200px; 
+    height: auto; 
+    margin-right: 10px;
+}
+.text{
+    margin-left: 150px;
+}
+.info{
+    margin-left: 10%;
+    margin-right: 100px;
+}
+.bg-inte {
+    width: 1000px; 
+    height: auto; 
+    margin-left: 100px; /* Cambia el valor a tu color deseado en formato hexadecimal o de otro tipo */
+}
+
+@media(max-width: 508px) {
+   
+}
+
+
+.chatbot {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f8f9fa; /* Color de fondo */
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+
+
+
+
